@@ -1,0 +1,6 @@
+D:\Project\Test\BrainTest\BrainTest\bin\BrainTest.dll.config
+D:\Project\Test\BrainTest\BrainTest\bin\BrainTest.dll
+D:\Project\Test\BrainTest\BrainTest\bin\BrainTest.pdb
+D:\Project\Test\BrainTest\BrainTest\obj\Debug\BrainTest.csprojResolveAssemblyReference.cache
+D:\Project\Test\BrainTest\BrainTest\obj\Debug\BrainTest.dll
+D:\Project\Test\BrainTest\BrainTest\obj\Debug\BrainTest.pdb
